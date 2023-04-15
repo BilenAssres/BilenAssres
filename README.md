@@ -11,13 +11,10 @@
 - ⚡ Fun fact about me: I'm a cohost of a podcast, and love exploring ideas and concepts that challenge the way we think about the world.
 
 
-<table>
-  <tr>
-<td><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bilenassres&" alt="bilenassres" /></td>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilenassres&show_icons=true&locale=en&layout=compact" alt="bilenassres" /></td>
-</tr>
-</table>
-</div>
+  <p align="center">
+<img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=bilenassres&" alt="bilenassres" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilenassres&show_icons=true&locale=en&layout=compact" alt="bilenassres" />
+</p>
 <h3>Let's connect:</h3>
 <p>
 <a href="https://codepen.io/bilenassres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bilenassres" height="30" width="30" /></a>
