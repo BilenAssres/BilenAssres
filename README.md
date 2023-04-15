@@ -15,9 +15,4 @@
 <img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=bilenassres&" alt="bilenassres" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilenassres&show_icons=true&locale=en&layout=compact" alt="bilenassres" />
 </p>
-<h3>Let's connect:</h3>
-<p>
-<a href="https://codepen.io/bilenassres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bilenassres" height="30" width="30" /></a>
-<a href="https://twitter.com/bilengizachew" target="blank" style="margin-left: 1rem;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilengizachew" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/bilengizachew" target="blank" style="margin-left: 1rem;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilengizachew" height="30" width="30" /></a>
-</p>
+<p align="center"><br />  <h3>Let's connect:</h3>  <a href="https://codepen.io/bilenassres" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bilenassres" height="30" width="30" /></a>  <a href="https://twitter.com/bilengizachew" target="_blank" rel="noopener noreferrer" style="margin-left: 1rem;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilengizachew" height="30" width="30" /></a>  <a href="https://linkedin.com/in/bilengizachew" target="_blank" rel="noopener noreferrer" style="margin-left: 1rem;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilengizachew" height="30" width="30" /></a>  </p>
