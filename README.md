@@ -12,6 +12,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilenassres&show_icons=true&locale=en" alt="bilenassres" /></p>
 
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bilenassres&" alt="bilenassres" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilenassres&show_icons=true&locale=en&layout=compact" alt="bilenassres" /></p>
 
 <h3>Let's connect:</h3>
 <p>
