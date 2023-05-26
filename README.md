@@ -8,8 +8,8 @@
 
 - 📫 You can reach me at bilenassres@gmail.com or through my LinkedIn profile linked below.
 
-- ⚡ Fun fact about me: I'm a cohost of a podcast, and love exploring ideas and concepts that challenge the way we think about the world.
-
+<!-- - ⚡ Fun fact about me: I'm a cohost of a podcast, and love exploring ideas and concepts that challenge the way we think about the world.
+ -->
 
 <table>
   <tr>
