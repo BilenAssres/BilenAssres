@@ -1,6 +1,6 @@
 
 <h1>Hi there 👋, I'm Bilen Gizachew</h1>
-<h4>I'm a Frontend Engineer at Chapa Financial Technologies, and a freelance developer with a passion for creating beautiful and functional interfaces.</h4>
+<h4>I'm the Lead Frontend Engineer at Chapa Financial Technologies, and a freelance developer with a passion for creating beautiful and functional interfaces.</h4>
 
 - 🌱 I’m currently learning advanced JavaScript frameworks and techniques to enhance my skills and stay up to date with the latest trends in the industry.
 
